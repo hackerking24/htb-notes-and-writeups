@@ -32,7 +32,6 @@
 
 [Kobold](CPTS%20Preparation%20Boxes/Kobold.md)
 
-[Connected](CPTS%20Preparation%20Boxes/Connected.md)
 
 [Active](CPTS%20Preparation%20Boxes/Active.md)
 
