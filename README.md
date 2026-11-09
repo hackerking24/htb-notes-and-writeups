@@ -18,7 +18,6 @@
 
 [Enigma](Enigma.md)
 
-[Dante](Dante.md)
 
 [**Nexus**](Nexus.md)
 
